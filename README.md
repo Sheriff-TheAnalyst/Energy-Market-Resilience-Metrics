@@ -26,7 +26,7 @@ Energix Enterprise currently faces several significant challenges:
 ✓ Energy Market Resilience Metrics: This part suggests that the study or initiative involves measuring and assessing the resilience of the energy market. Resilience in this context likely means the ability of the energy market to withstand, adapt to, and quickly recover from various challenges or disruptions.    
 ✓Analyzing Vulnerabilities: This indicates that the study aims to identify and understand the weaknesses or susceptibilities within the energy market. These vulnerabilities could be related to factors like infrastructure, supply chains, regulatory frameworks, or other aspects that could potentially be exploited or disrupted.   
 
-The project is of paramount importance to Energix Enterprise use to the following reasons:    
+The project is of paramount importance to Energix Enterprise due to the following reasons:    
 ✓ Enhancing Market Resilience: In the ever-changing energy market, it is imperative to enhance resilience and adaptability to withstand disruptions and maintain operations.   
 ✓ Identifying Vulnerabilities: Through data analysis, the project aims to identify vulnerabilities and proactively address them, thereby reducing operational risks.    
 ✓ Maintaining Competitiveness: By optimizing energy production and pricing strategies, the company aims to remain competitive in the face of increasing competition.     
